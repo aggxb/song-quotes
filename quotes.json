@@ -1,0 +1,281 @@
+[
+  {
+  "id": 1,
+  "quote": "Eu viajei no seu olhar, no teu sorriso, nos teus segredos. Eu descobri o que é amar pelo toque dos seus beijos",
+  "song": {
+    "name": "Seu Astral",
+    "singer": "Jorge & Mateus",
+    "url": "./songs/Jorge & Mateus - Seu Astral.mp3"
+  }
+  },
+  {
+    "id": 2,
+    "quote": "Te amo como nunca amei ninguém, te quero como nunca quis um dia alguém, você mudou a minha história",
+    "song": {
+      "name": "Como Nunca Amei Ninguém",
+      "singer": "Exaltasamba",
+      "url": "./songs/Exaltasamba - Como Nunca Amei Ninguém.mp3"
+    }
+  },
+  {
+    "id": 3,
+    "quote": "Você é assim, um sonho pra mim, e quando eu não te vejo... Eu penso em você, desde o amanhecer, até quando eu me deito",
+    "song": {
+      "name": "Velha Infância",
+      "singer": "Tribalistas",
+      "url": "./songs/Tribalistas - Velha Infância.mp3"
+    }
+  },
+  {
+    "id": 4,
+    "quote": "... E todas as horas que o tempo tem pra me conceder são tuas até morrer",
+    "song": {
+      "name": "Um Amor Puro",
+      "singer": "Djavan",
+      "url": "./songs/Djavan - Um Amor Puro.mp3"
+    }
+  },
+  {
+    "id": 5,
+    "quote": "Minha paixão, eu te juro, é pra vida inteira",
+    "song": {
+      "name": "Será que é Amor",
+      "singer": "Exaltasamba",
+      "url": "./songs/Exaltasamba - Será que é Amor.mp3"
+    }
+  },
+  {
+    "id": 6,
+    "quote": "Queria ser a pele do seu corpo, pra estar junto com você a todo tempo",
+    "song": {
+      "name": "Amor dos Deuses",
+      "singer": "Fundo de Quintal",
+      "url": "./songs/Fundo de Quintal - Amor Dos Deuses.mp3"
+    }
+  },
+  {
+    "id": 7,
+    "quote": "Depois do dia em que te conheci, teu lindo olhar eu jamais esqueci",
+    "song": {
+      "name": "Anjo Meu",
+      "singer": "Exaltasamba",
+      "url": "./songs/Exaltasamba - Anjo Meu.mp3"
+    }
+  },
+  {
+    "id": 8,
+    "quote": "Agora quem diz que o amor faz milagres, sou eu mais feliz",
+    "song": {
+      "name": "Até Ver Você",
+      "singer": "Thiaguinho",
+      "url": "./songs/Thiaguinho - Até Ver Você (Hahaha).mp3"
+    }
+  },
+  {
+    "id": 9,
+    "quote": "I wanna be where you are, I just can't walk away, you drive me crazy",
+    "song": {
+      "name": "drive ME crazy!",
+      "singer": "Lil Yatchy",
+      "url": "./songs/Lil Yachty - drive ME crazy!.mp3"
+    }
+  },
+  {
+    "id": 10,
+    "quote": "Eu te amo, te quero demais, meu mundo é você",
+    "song": {
+      "name": "Eu Te Amo",
+      "singer": "Péricles",
+      "url": "./songs/Péricles - Eu Te Amo.mp3"
+    }
+  },
+  {
+    "id": 11,
+    "quote": "... Pois tudo que é amor, parece com você",
+    "song": {
+      "name": "Eternamente",
+      "singer": "Gal Costa",
+      "url": "./songs/Gal Costa - Eternamente.mp3"
+    }
+  },
+  {
+    "id": 12,
+    "quote": "Eu quero provar pro mundo, que têm duas vidas e um só querer, meu amor",
+    "song": {
+      "name": "É Diferente",
+      "singer": "Sorriso Maroto",
+      "url": "./songs/Sorriso Maroto - É Diferente.mp3"
+    }
+  },
+  {
+    "id": 13,
+    "quote": "... E o que é o sofrer para mim, que estou jurado pra morrer de amor",
+    "song": {
+      "name": "Meu Bem Querer",
+      "singer": "Djavan",
+      "url": "./songs/Djavan - Meu Bem Querer.mp3"
+    }
+  },
+  {
+    "id": 14,
+    "quote": "Ficar com você foi a maior graça que eu podia receber, quero pra sempre te ter",
+    "song": {
+      "name": "Graça",
+      "singer": "Exaltasamba",
+      "url": "./songs/Exaltasamba - Graça.mp3"
+    }
+  },
+  {
+    "id": 15,
+    "quote": "Eu nunca amei como eu te amo, basta em meus olhos você notar",
+    "song": {
+      "name": "Deixa Eu Te Fazer Feliz",
+      "singer": "Thiaguinho",
+      "url": "./songs/Thiaguinho - Deixa Eu Te Fazer Feliz.mp3"
+    }
+  },
+  {
+    "id": 16,
+    "quote": "... Quando menos esperava, o seu perfume estava ali",
+    "song": {
+      "name": "Perfume",
+      "singer": "Belo",
+      "url": "./songs/Belo - Perfume.mp3"
+    }
+  },
+  {
+    "id": 17,
+    "quote": "Ando por aí, mas eu preciso de você comigo",
+    "song": {
+      "name": "Lamentável pt. III",
+      "singer": "Froid part. Cynthia Luz",
+      "url": "./songs/Froid part. Cynthia Luz - Lamentável pt. III.mp3"
+    }
+  },
+  {
+    "id": 18,
+    "quote": "Girl, I'm so in love with you",
+    "song": {
+      "name": "Congratulations",
+      "singer": "Mac Miller feat. Bilal",
+      "url": "./songs/Mac Miller - Congratulations (feat. Bilal).mp3"
+    }
+  },
+  {
+    "id": 19,
+    "quote": "I'm in a dream, fairytale, fantasy when you're around me",
+    "song": {
+      "name": "Dreams, Fairytales, Fantasies",
+      "singer": "A$AP Ferg feat. Brent Faiyaz, Salaam Remi",
+      "url": "./songs/A$AP Ferg - Dreams, Fairytales, Fantasies ft. Brent Faiyaz, Salaam Remi.mp3"
+    }
+  },
+  {
+    "id": 20,
+    "quote": "Eu amo você, menina",
+    "song": {
+      "name": "Eu Amo Você",
+      "singer": "Tim Maia",
+      "url": "./songs/Tim Maia - Eu Amo Você.mp3"
+    }
+  },
+  {
+    "id": 21,
+    "quote": "Só sei viver se for por você",
+    "song": {
+      "name": "Oceano",
+      "singer": "Djavan",
+      "url": "./songs/Djavan - Oceano.mp3"
+    }
+  },
+  {
+    "id": 22,
+    "quote": "... Amanhecer na casa de campo, ouvindo Djavan, correndo atrás de ti feito um cigano",
+    "song": {
+      "name": "Amanhecer",
+      "singer": "BK' part. Nansy Silvvz",
+      "url": "./songs/BK', Nansy Silvvz - Amanhecer.mp3"
+    }
+  },
+  {
+    "id": 23,
+    "quote": "Tenho você por perto, nunca me senti tão completo, nunca me senti tão seguro, perco o medo do fim do mundo",
+    "song": {
+      "name": "Planos",
+      "singer": "BK' part. Luccas Carlos",
+      "url": "./songs/BK' - Planos part. Luccas Carlos.mp3"
+    }
+  },
+  {
+    "id": 24,
+    "quote": "All I want, all I need now, I know, I know I found it in you",
+    "song": {
+      "name": "Candy Rain",
+      "singer": "Soul for Real",
+      "url": "./songs/Soul for Real - Candy Rain.mp3"
+    }
+  },
+  {
+    "id": 25,
+    "quote": "Ainda bem, que agora encontrei você, eu realmente não sei o que eu fiz pra merecer, você",
+    "song": {
+      "name": "Ainda Bem",
+      "singer": "Marisa Monte",
+      "url": "./songs/Marisa Monte - Ainda Bem.mp3"
+    }
+  },
+  {
+    "id": 26,
+    "quote": "Quero a luz dos olhos meus na luz dos olhos teus, sem mais 'larará'",
+    "song": {
+      "name": "Pela Luz dos Olhos Teus",
+      "singer": "Miúcha, Antônio Carlos Jobim",
+      "url": "./songs/Miúcha, Antonio Carlos Jobim - Pela Luz dos Olhos Teus.mp3"
+    }
+  },
+  {
+    "id": 27,
+    "quote": "... Te vejo e falta o ar, meus olhos podem ver o amor acontecer",
+    "song": {
+      "name": "Pra Ver o Sol Brilhar",
+      "singer": "Belo",
+      "url": "./songs/Belo - Pra Ver O Sol Brilhar.mp3"
+    }
+  },
+  {
+    "id": 28,
+    "quote": "Talvez ela saiba de cor tudo que eu preciso sentir, pedra preciosa de olhar, ela só precisa existir para me completar",
+    "song": {
+      "name": "Ela Une Todas as Coisas",
+      "singer": "Jorge Vercillo",
+      "url": "./songs/Jorge Vercillo - Ela Une Todas As Coisas.mp3"
+    }
+  },
+  {
+    "id": 29,
+    "quote": "Se hoje estou feliz é porque você está perto de mim",
+    "song": {
+      "name": "Não Tem Hora e Nem Lugar",
+      "singer": "Exaltasamba",
+      "url": "./songs/Exaltasamba - Não Tem Hora e Nem Lugar.mp3"
+    }
+  },
+  {
+    "id": 30,
+    "quote": "Every time I look into your eyes I see it, you're all I need",
+    "song": {
+      "name": "Get You",
+      "singer": "Daniel Caesar feat. Kali Uchis",
+      "url": "./songs/Daniel Caesar - Get You (feat. Kali Uchis).mp3"
+    }
+  },
+  {
+    "id": 31,
+    "quote": "Paz e amor é o que eu quero pra nós",
+    "song": {
+      "name": "A Hora é Agora",
+      "singer": "Jorge & Mateus",
+      "url": "./songs/Jorge & Mateus - A Hora É Agora.mp3"
+    }
+  }
+]
